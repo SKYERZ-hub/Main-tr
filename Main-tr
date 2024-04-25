@@ -27,64 +27,64 @@ Ana geminiz bilinmeyen bir varlık tarafından saldırıya uğradı. Neyse ki ha
 
 [b]Keşfetmek hayatta kalmanın anahtarı[/b]. Bir yerde çok uzun süre bekler veya mahsur kalırsanız mürettebatınız kesinlikle ölecektir. Hayatta kalmak için devamlı hareket etmeli ve ticaret yapabileceğiniz başka gemiler veya gruplar bulmalısınız.
 
-[b]Crew needs and moods[/b]. The needs of your crew must be met in order to keep your ship fully functioning. An angry crew may rebel, decide not to work or give up completely. Ensure you have enough food and water to feed your crew. You must also choose your captain wisely.
+[b]Mürettebat ihtiyaçları ve ruh halleri[/b]. Geminizin tam olarak çalışır durumda kalması için mürettebatınızın ihtiyaçlarının karşılanması gerekir. Kızgın bir mürettebat isyan edebilir, çalışmayabilir veya tamamen pes edebilir. Mürettebatınızı beslemek için yeterli yiyecek ve suya sahip olduğunuzdan emin olun. Kaptanınızı da akıllıca seçmelisiniz.
 
-[b]Extensive mod support[/b]. All the game's data is stored in JSON files. This means it is extremely easy to change anything currently in the game and even add new ones. In the future we plan to expand on this even further.
+[b]Kapsamlı mod desteği[/b]. Oyunun tüm verileri JSON dosyalarında tutulur. Bu, oyunda mevcut olan herhangi bir şeyi değiştirmenin ve hatta yenilerini eklemenin son derece kolay olduğu anlamına gelir. Gelecekte bu konuyu daha da genişletmeyi planlıyoruz.
 
-[b]Mod development pedigree[/b]. The author of SpaceSlog has spent the last 10 years painstakingly developing a large and popular modification for Mount&Blade Warband called A World of Ice and Fire. This is the reason for wanting extensive mod support and should hopefully give peace of mind for anyone wanting to purchase SpaceSlog, knowing the author is dedicated and willing to finish a project.
+[b]Mod geliştirme soyağacı[/b]. SplaceSlog'un yapımcısı son 10 yılını büyük bir özenle Mount&Blade Warband için, World of Ice and Fire isimli büyük ve popüler modlamalarla geçirdi. Kapsamlı mod desteğinin nedeni budur ve SpaceSlog satın almak isteyen herkese, yapımcının kendini adamış ve bir projeyi bitirmeye istekli olduğunu bilerek gönül rahatlığı sağlamasını umuyoruz.
 
 
 Short description (Do not translate) (Needs to be between 200-300 characters)
 
-Build your ship, manage your crew and explore the cosmos whilst trying your best to keep your crew alive and your ship fully functioning. This game utilises an events driven AI and simulated ship systems to ensure gameplay is kept challenging and every game you play has a different story to tell.
+Geminizi inşa edin, mürettebatınızı hayatta tutun ve evreni keşfedin! Bu oyun, oynanışının zorlayıcı olmasını ve oynadığınız her oyunun anlatacak farklı bir hikayesi olmasını sağlamak için olaylara dayalı yapay zeka ve simüle edilmiş gemi sistemlerini kullanır.
+
 
 
 Why early access? (Do not translate)
 
-SpaceSlog is a complex and ambitious project being developed by one person, it has already been in development for several years and now requires the support and feedback from the community. We do not want to develop the game in a vacuum but would rather mould the game into something our fans really want to play and feel early access is the best way to achieve this.
+SpaceSlog, tek bir kişi tarafından geliştirilen karmaşık ve iddialı bir projedir; birkaç yıldır geliştirilme aşamasındadır ve artık topluluğun desteğine ve geri bildirimine ihtiyaç duymaktadır. Oyunu bir boşlukta herhangi bir geri bildirim almadan geliştirmek istemiyoruz; oyunu hayranlarımızın gerçekten oynamak isteyeceği bir şeye dönüştürmek istiyoruz ve erken erişimin bunu başarmanın en iyi yolu olduğunu düşünüyoruz.
 
 
 How long? (Do not translate)
 
-It's hard to specify a time but we plan to be in early access until roughly February 2026. We have a long list of features and ideas for the game, all of which take time to develop if we want to ensure a quality product.
-
-We strongly suggest however to only purchase the game based on what is in the game now and not what is planned for the future to avoid disappointment.
+Bir zaman belirtmek zor ama yaklaşık olarak Şubat 2026'ya kadar erken erişimde olmayı planlıyoruz. Oyun için uzun bir fikir, özellik ve yapılacaklar listemiz var ve kaliteli bir ürün sağlamak istiyorsak bunların hepsinin geliştirilmesi zaman alıyor.
+Ancak hayal kırıklığı yaşamamak için oyuna ileriki zamanlarda eklenecek olanlara göre değil şu anda oyunda olanlara göre satın almanızı öneririz.
 
 
 
 Changed when finished? (Do not translate)
 
-The full version will have many more simulated systems and a much richer gameplay experience. The course of development does however change depending on feedback from our community. Below are a few things we plan to add to the game but are not guaranteed.
+Tam sürümde çok daha fazla simüle edilmiş sistem ve çok daha zengin bir oyun deneyimi olacak. Ancak gelişimin seyri topluluğumuzdan gelen geri bildirimlere bağlı olarak değişiyor. Aşağıda oyuna eklemeyi planladığımız ancak garanti edilmeyen birkaç şey bulunmaktadır.
 
 [list]
-[*]Random encounters with planets, space monsters and other alien life forms.
-[*]Send away parties to planets and derelict ships to scavenge for supplies.
-[*]Watch relationships grow and fall between different crew members.
-[*]Many types of creatures you can tame and train.
-[*]Heat and atmosphere sim elements.
-[*]Research new technologies and use them to help your crew survive and thrive.
-[*]Tactical combat systems between ships and on foot, including breaches and landing parties.
-[*]Intricate wound and illness system.
-[*]Hydroponics and farming.
-[*]A galaxy map allowing you to plan and trace your journey.
-[*]Different alien races to discover.
+[*]Gezegenlerle, uzay canavarlarıyla ve diğer uzaylı yaşam formlarıyla rastgele karşılaşmalar.
+[*]Gezegenlere ve gemilere malzeme toplamak için gruplar gönderin.
+[*]Farklı mürettebat üyeleri arasındaki ilişkilerin büyüyüşünü ve düşüşünü izleyin.
+[*]Evcilleştirebileceğiniz ve eğitebileceğiniz birçok canlı türü.
+[*]Isı ve atmosfer simülasyon elemanları.
+[*]Yeni teknolojileri araştırıp ve mürettebatınızın hayatta kalmasına ve gelişmesine yardımcı olmak için kullanın.
+[*]Gemiler ve yayalar arasında gedikleri ve çıkarma gruplarını kapsayan taktik savaş sistemleri.
+[*]Karmaşık yaralanma ve hastalık sistemi.
+[*]Topraksız tarım ve tarım.
+[*]Yolculuğunuzu planlamanıza ve izlemenize olanak tanıyan bir galaksi haritası.
+[*]Keşfedilecek farklı uzaylı ırkları.
 [/list]
 
-Again, these features are not guaranteed but what we would like to add in an ideal situation. Please only purchase the game based on what is in the game now and not what is planned for the future to avoid disappointment.
+Yine de bu özellikler garanti edilmez ancak ideal bir durumda eklemek istediklerimizi kapsamaktadır. Hayal kırıklığı yaşamamak için lütfen oyunu yalnızca şu anda oyunda olanlara göre satın alın, gelecekte planlananlara göre değil.
 
 
 
 Playable? (Do not translate)
 
-The game is currently fully playable and we do our best to ensure there are as few bugs as possible. The game does however only represent a small fraction of what we plan to achieve, which means in its current state it may be lacking in gameplay features and content.
+Oyun şu anda tamamen oynanabilir durumda ve mümkün olduğunca az hata olmasını sağlamak için elimizden gelenin en iyisini yapıyoruz. Ancak oyun, başarmayı planladığımızın yalnızca küçük bir kısmını temsil ediyor; bu da mevcut durumunda oyun özellikleri ve içeriği açısından eksik olabileceği anlamına geliyor.
 
 
 Price change? (Do not translate)
 
-The final price is still being decided but we plan to increase the price upon exiting early access.
+Nihai fiyat hâlâ belirleniyor ancak erken erişimden çıktıktan sonra fiyatı artırmayı planlıyoruz.
 
 
 Final words. (Do not translate)
 
-We hold various polls on our discord ([url]https://discord.gg/cBNNfht[/url]) channel and encourage suggestions and feedback from our community there and also on our forums ([url]https://produnogames.com/forums[/url]), all of which we take very seriously and into careful consideration. We understand we cannot make the best game possible just by ourselves, we require vital input and feedback from all of our players to help refine and direct our game to greatness.
-We will also be showing development videos over on our YouTube ([url]https://www.youtube.com/channel/UCkj18MICGlM2i3TP_o0338w[/url]) channel.
+Discord ([url]https://discord.gg/cBNNfht[/url]) kanalımızda çeşitli anketler düzenliyoruz ve oradaki topluluğumuzun yanı sıra forumlarımızda ([url]https://produnogames.com/forums[/url]) öneri ve geri bildirimleri teşvik ediyoruz, bunların hepsini çok ciddiye alıyoruz ve dikkatle değerlendiriyoruz. Mümkün olan en iyi oyunu tek başımıza yapamayacağımızın bilincindeyiz; oyunumuzu iyileştirmemize ve mükemmelliğe yönlendirmemize yardımcı olmak için tüm oyuncularımızdan gelecek olan katkılar ve geri bildirimler hayati önem arz ediyor.
+Ayrıca YouTube ([url]https://www.youtube.com/channel/UCkj18MICGlM2i3TP_o0338w[/url]) kanalımızda geliştirme videoları da göstereceğiz.
