@@ -1,7 +1,7 @@
 Description (Do not translate)
 
 
-[b]SpaceSlog[/b]'da uzaydaki zorluklara ilerleyin. Gemi inşası, mürettebat yönetimi ve keşfe önem veren zorlu bir bilim-kurgu uzay gemisi simülasyon. Rimworld, Starship Theory, Dwarf Fortress ve X-COM gibi oyunlardan ve Firefly, Battlestar Galactica, Stargate Universe ve The Expanse gibi diğer medyalardan ilham alınmıştır.
+[b]SpaceSlog[/b]'da uzaydaki zorluklara ilerleyin. Gemi inşası, mürettebat yönetimi ve keşfe önem veren zorlu bir bilim-kurgu uzay gemisi simülasyonu. Rimworld, Starship Theory, Dwarf Fortress ve X-COM gibi oyunlardan ve Firefly, Battlestar Galactica, Stargate Universe ve The Expanse gibi diğer medyalardan ilham alınmıştır.
 
 Ana geminiz bilinmeyen bir varlık tarafından saldırıya uğradı. Neyse ki hayatta kalanlardan birkaçı küçük bir gemiyle kaçmayı başardı. Artık yalnız, aç ve uzayda kaybolmuş bir halde evreni keşfetmeli ve onları güvenliğe yönlendirmelisiniz.
 
@@ -11,10 +11,10 @@ Ana geminiz bilinmeyen bir varlık tarafından saldırıya uğradı. Neyse ki ha
 [list]
 [*]Geminizi istediğiniz şekilde inşa edin.
 [*]Her oynadığınızda yeni oluşuturulmuş bir galaksi.
-[*]Arkadaşınız veya düşmanınız olsun diğer gruplarla tanışın.
+[*]Müttefiğiniz veya düşmanınız olsun diğer gruplarla tanışın.
 [*]Ekibinin ihtiyaçlarını ve ruh hallerini yönet.
-[*]Geçen gemilerle ve gruplarla ticaret yap.
-[*]Elektriksel güç simülasyonu. Kabloları, jeneratörleri ve aküleri yerleştir.
+[*]Geçen gemilerle ve gruplarla ticaret yapın.
+[*]Elektriksel güç simülasyonu. Kabloları, jeneratörleri ve aküleri yerleştirin.
 [*]Her oynadığınızda kendi hikayenizi geliştirin.
 [*]Kapsamlı Mod desteği.
 [*]Ve dahası…
@@ -27,11 +27,11 @@ Ana geminiz bilinmeyen bir varlık tarafından saldırıya uğradı. Neyse ki ha
 
 [b]Keşfetmek hayatta kalmanın anahtarı[/b]. Bir yerde çok uzun süre bekler veya mahsur kalırsanız mürettebatınız kesinlikle ölecektir. Hayatta kalmak için devamlı hareket etmeli ve ticaret yapabileceğiniz başka gemiler veya gruplar bulmalısınız.
 
-[b]Mürettebat ihtiyaçları ve ruh halleri[/b]. Geminizin tam olarak çalışır durumda kalması için mürettebatınızın ihtiyaçlarının karşılanması gerekir. Kızgın bir mürettebat isyan edebilir, çalışmayabilir veya tamamen pes edebilir. Mürettebatınızı beslemek için yeterli yiyecek ve suya sahip olduğunuzdan emin olun. Kaptanınızı da akıllıca seçmelisiniz.
+[b]Mürettebatın ihtiyaçları ve ruh halleri[/b]. Geminizin tam olarak çalışır durumda kalması için mürettebatınızın ihtiyaçlarının karşılanması gerekir. Kızgın bir mürettebat isyan edebilir, çalışmayabilir veya tamamen pes edebilir. Mürettebatınızı beslemek için yeterli yiyecek ve suya sahip olduğunuzdan emin olun. Kaptanınızı da akıllıca seçmelisiniz.
 
 [b]Kapsamlı mod desteği[/b]. Oyunun tüm verileri JSON dosyalarında tutulur. Bu, oyunda mevcut olan herhangi bir şeyi değiştirmenin ve hatta yenilerini eklemenin son derece kolay olduğu anlamına gelir. Gelecekte bu konuyu daha da genişletmeyi planlıyoruz.
 
-[b]Mod geliştirme soyağacı[/b]. SplaceSlog'un yapımcısı son 10 yılını büyük bir özenle Mount&Blade Warband için, World of Ice and Fire isimli büyük ve popüler modlamalarla geçirdi. Kapsamlı mod desteğinin nedeni budur ve SpaceSlog satın almak isteyen herkese, yapımcının kendini adamış ve bir projeyi bitirmeye istekli olduğunu bilerek gönül rahatlığı sağlamasını umuyoruz.
+[b]Mod geliştirme soyağacı[/b]. SplaceSlog'un yapımcısı son 10 yılını büyük bir özenle Mount&Blade Warband için, World of Ice and Fire isimli büyük ve popüler modlamalarla geçirdi. Kapsamlı mod desteğinin nedeni budur ve SpaceSlog satın almak isteyen herkese, yapımcının kendini adamış ve bu projeyi bitirmeye istekli olduğunu bilerek gönül rahatlığı sağlamasını umuyoruz.
 
 
 Short description (Do not translate) (Needs to be between 200-300 characters)
@@ -42,7 +42,7 @@ Geminizi inşa edin, mürettebatınızı hayatta tutun ve evreni keşfedin! Bu o
 
 Why early access? (Do not translate)
 
-SpaceSlog, tek bir kişi tarafından geliştirilen karmaşık ve iddialı bir projedir; birkaç yıldır geliştirilme aşamasındadır ve artık topluluğun desteğine ve geri bildirimine ihtiyaç duymaktadır. Oyunu bir boşlukta herhangi bir geri bildirim almadan geliştirmek istemiyoruz; oyunu hayranlarımızın gerçekten oynamak isteyeceği bir şeye dönüştürmek istiyoruz ve erken erişimin bunu başarmanın en iyi yolu olduğunu düşünüyoruz.
+SpaceSlog, tek bir kişi tarafından geliştirilen karmaşık ve iddialı bir projedir; birkaç yıldır geliştirilme aşamasındadır ve artık topluluğun desteğine ve geri bildirimine ihtiyaç duymaktadır. Oyunu bir boşlukta, herhangi bir geri bildirim almadan geliştirmek istemiyoruz; oyunu hayranlarımızın gerçekten oynamak isteyeceği bir şeye dönüştürmek istiyoruz ve erken erişimin bunu başarmanın en iyi yolu olduğunu düşünüyoruz.
 
 
 How long? (Do not translate)
@@ -58,11 +58,11 @@ Tam sürümde çok daha fazla simüle edilmiş sistem ve çok daha zengin bir oy
 
 [list]
 [*]Gezegenlerle, uzay canavarlarıyla ve diğer uzaylı yaşam formlarıyla rastgele karşılaşmalar.
-[*]Gezegenlere ve gemilere malzeme toplamak için gruplar gönderin.
+[*]Gezegenlere ve gemilere malzeme toplamak için gruplar gönderebilme.
 [*]Farklı mürettebat üyeleri arasındaki ilişkilerin büyüyüşünü ve düşüşünü izleyin.
 [*]Evcilleştirebileceğiniz ve eğitebileceğiniz birçok canlı türü.
 [*]Isı ve atmosfer simülasyon elemanları.
-[*]Yeni teknolojileri araştırıp ve mürettebatınızın hayatta kalmasına ve gelişmesine yardımcı olmak için kullanın.
+[*]Yeni teknolojileri araştırın ve mürettebatınızın hayatta kalmasına ve gelişmesine yardımcı olmak için kullanın.
 [*]Gemiler ve yayalar arasında gedikleri ve çıkarma gruplarını kapsayan taktik savaş sistemleri.
 [*]Karmaşık yaralanma ve hastalık sistemi.
 [*]Topraksız tarım ve tarım.
@@ -86,5 +86,5 @@ Nihai fiyat hâlâ belirleniyor ancak erken erişimden çıktıktan sonra fiyat�
 
 Final words. (Do not translate)
 
-Discord ([url]https://discord.gg/cBNNfht[/url]) kanalımızda çeşitli anketler düzenliyoruz ve oradaki topluluğumuzun yanı sıra forumlarımızda ([url]https://produnogames.com/forums[/url]) öneri ve geri bildirimleri teşvik ediyoruz, bunların hepsini çok ciddiye alıyoruz ve dikkatle değerlendiriyoruz. Mümkün olan en iyi oyunu tek başımıza yapamayacağımızın bilincindeyiz; oyunumuzu iyileştirmemize ve mükemmelliğe yönlendirmemize yardımcı olmak için tüm oyuncularımızdan gelecek olan katkılar ve geri bildirimler hayati önem arz ediyor.
-Ayrıca YouTube ([url]https://www.youtube.com/channel/UCkj18MICGlM2i3TP_o0338w[/url]) kanalımızda geliştirme videoları da göstereceğiz.
+Discord ([url]https://discord.gg/cBNNfht[/url]) kanalımızda çeşitli anketler düzenliyoruz ve oradaki topluluğumuzun yanı sıra forumlarımızda ([url]https://produnogames.com/forums[/url]) öneri ve geri bildirimleri kontrol ediyoruz, bunların hepsini çok ciddiye alıyoruz ve dikkatle değerlendiriyoruz. Mümkün olan en iyi oyunu tek başımıza yapamayacağımızın bilincindeyiz; oyunumuzu iyileştirmemize ve mükemmelliğe yönlendirmemize yardımcı olmak için tüm oyuncularımızdan gelecek olan katkılar ve geri bildirimler hayati önem arz ediyor.
+Ayrıca YouTube ([url]https://www.youtube.com/channel/UCkj18MICGlM2i3TP_o0338w[/url]) kanalımızda geliştirme videoları da yayınlayacağız.
